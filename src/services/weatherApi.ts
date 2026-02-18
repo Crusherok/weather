@@ -1,6 +1,6 @@
 const API_KEY = import.meta.env.VITE_OPENWEATHER_API_KEY || 'demo_key';
 const BASE_URL = 'https://api.openweathermap.org/data/2.5';
-const GEO_URL = 'http://api.openweathermap.org/geo/1.0';
+const GEO_URL = 'https://api.openweathermap.org/geo/1.0';
 
 export class WeatherAPI {
   private static instance: WeatherAPI;
