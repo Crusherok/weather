@@ -182,7 +182,7 @@ function App() {
               <span>Powered by OpenWeatherMap</span>
               <span>•</span>
               <a 
-                href="https://github.com" 
+                href="https://github.com/Crusherok/weather" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 hover:text-white transition-colors"
